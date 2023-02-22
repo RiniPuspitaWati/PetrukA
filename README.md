@@ -1,0 +1,2 @@
+# PetrukA
+Suhu dalam ruangan
